@@ -8,7 +8,6 @@
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/redux-242424?style=for-the-badge&logo=redux" alt="redux">
   <img src="https://img.shields.io/badge/React-563D7C?style=for-the-badge&logo=React&logoColor=fff" alt="React">
   <img src="https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript">
   <img src="https://img.shields.io/badge/styled_components-FEFEFE?style=for-the-badge&logo=styled-components" alt="styled-components">
