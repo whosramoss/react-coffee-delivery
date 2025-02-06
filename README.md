@@ -8,10 +8,11 @@
 </p>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
   <img src="https://img.shields.io/badge/React-563D7C?style=for-the-badge&logo=React&logoColor=fff" alt="React">
   <img src="https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=fff" alt="TypeScript">
+  <br/>
   <img src="https://img.shields.io/badge/styled_components-FEFEFE?style=for-the-badge&logo=styled-components" alt="styled-components">
-
   <img src="https://img.shields.io/badge/Prettier-242424?style=for-the-badge&logo=prettier" alt="Prettier">
   <img src="https://img.shields.io/badge/eslint-0170FE?style=for-the-badge&logo=eslint" alt="eslint">
   <img src="https://img.shields.io/badge/zod-242424?style=for-the-badge&logo=zod" alt="zod">
